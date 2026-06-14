@@ -36,3 +36,42 @@ LINK:
 
 ## Leccion 7
 
+---
+
+# Proyecto Final
+
+Se desarrolla una proyecto web empleando HTML y CSS que permite:
+
+---
+
+# Recomendaciones para el Estudiante
+
+- Encontrar un momento y espacio dedicado para la realizacion de este curso
+- Pausa los videos cuando lo crea necesario
+- Modificar los codigos empleados para experimentar
+- Minimice distracciones
+- No tema equivocarse, los errores son parte del aprendizaje
+
+---
+
+# Elaboracion
+**Universidad Peruana de Ciencias Aplicadas**
+
+**Carrera:** Ingenieria de Software
+**Curso:** Aplicaciones Web
+**NRC:** 12190
+**Periodo:** 2026-01
+
+**Nombre del equipo:** 
+**Integrantes del equipo:**
+
+| N°  | Nombres y Apellidos               |   Código   |
+| :-: | --------------------------------- | :--------: |
+|  1  | Flores Eusebio, Angel Thyago      | U20231B781 |
+|  2  | |  |
+|  3  | |  |
+|  4  | |  |
+|  5  | |  |
+
+
+
