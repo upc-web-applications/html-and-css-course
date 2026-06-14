@@ -108,6 +108,7 @@ Se desarrolla una proyecto web empleando HTML y CSS que permite:
 # Recursos Adicionales 
 
 - **Todas las Actividades Prácticas**:
+
 | Lección # | Actividad | Empezar a Programar |
 |----------|----------|-------------|
 | 1 |  |  | 
