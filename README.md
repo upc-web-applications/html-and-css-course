@@ -1,4 +1,4 @@
-# Fundamentos de HTML y CSS para principiantes 
+# Fundamentos de Desarrollo Web usando HTML y CSS para principiantes
 
 ## Resumen del Curso
 
@@ -7,12 +7,14 @@ Este curso, con una duracion aproximada de 1 hora, introduce a estudiantes de se
 El contenido de este curso esta diseñado para ser sencillo, interactivo y practico, utilizando ejemplos practicos y herramientas 100% en linea.
 
 - **No requiere descargas:** Solo necesitas un navegador web
-- **Duracion total:** Aproximadamente 1 hora
+- **Duracion total:** ~60 minutos
+- **Prerrequisitos**: Ninguno 
 - **Publico objetivo:** Estudiantes de secundaria de 12 a 17 años sin experiencia previa
+- **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge) 
 
 ---
 
-# Repositorio de Codigo y Ejemplos
+# Repositorio de Codigo Fuente 
 
 En este repositorio encontraras los codigos de ejemplo empleados durante la elaboracion de este curso.
 
@@ -20,7 +22,7 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 
 ---
 
-# Secuencia de Lecciones
+# Secuencia de la Leccion
 
 ## Leccion 1: Introduccion al desarrollo web (¿Que es un sitio web?)
 
@@ -103,6 +105,20 @@ Se desarrolla una proyecto web empleando HTML y CSS que permite:
 - No tema equivocarse, los errores son parte del aprendizaje
 
 ---
+# Recursos Adicionales 
+
+- **Todas las Actividades Prácticas**:
+| Lección # | Actividad | Empezar a Programar |
+|----------|----------|-------------|
+| 1 |  |  | 
+| 2 |  |  | 
+| 3 |  | | 
+| 4 |  |  | 
+| 5 |  |  | 
+| 6 |  |  | 
+| 7 |  |  | 
+
+---
 
 # Elaboracion
 
@@ -110,11 +126,12 @@ Se desarrolla una proyecto web empleando HTML y CSS que permite:
 
 
 **Carrera:** Ingenieria de Software<br/>
-**Curso:** Aplicaciones Web<br/>
+**Curso:** 1ASI0730 Aplicaciones Web<br/>
 **NRC:** 12190<br/>
 **Periodo:** 2026-01
 
 **Nombre del equipo:** RiskGuard Solutions<br/>
+**Lider del equipo:** [LIDER] <br/>
 
 **Integrantes del equipo:**
 
@@ -124,6 +141,10 @@ Se desarrolla una proyecto web empleando HTML y CSS que permite:
 |  2  | Aponte Pablo, Isabel Luisa        | U20241E158 |
 |  3  | Blancas Chávez, Carlos Franco     | U20241A322 |
 |  4  | Laura Acosta, Victor Jhosuef      | U202418655 |
+
+**Fecha de entrega:** [FECHA]
+
+**¡Gracias por completar el curso!** 
 
 
 
