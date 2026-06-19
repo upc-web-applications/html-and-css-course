@@ -145,7 +145,7 @@ Se desarrolla una proyecto web empleando HTML y CSS que permite:
 | 3 | Elementos HTML Comunes - Aponte Pablo, Isabel Luisa | [CodePen](https://codepen.io/editor/Isabel-Aponte-Pablo/pen/019eca01-99a5-74e3-a165-a0512b7958f9) | 
 | 4 | Introducción a CSS - Laura Acosta, Victor Jhosef | [Replit](https://www.onlinegdb.com/voYJFjYCm) | 
 | 5 | Estilo simple - Laura Acosta, Victor Jhosef | | 
-| 6 |  |  | 
+| 6 | Creacion de una pagina web Basica - Blancas Chávez, Carlos Franco |[CodePen](https://codepen.io/CarlosBlancas969/pen/ogBzrOj)  | 
 | 7 |  |  |
 
 ---
