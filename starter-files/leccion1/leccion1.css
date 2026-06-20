@@ -8,16 +8,14 @@
   Estilo del título.
 */
 .h1 {
-  /* Cambia el color del título */
-  color: #2b5cff;
+  [PROPIEDAD]: [VALOR];
 }
 
 /* 
   Estilo del párrafo.
 */
 .p {
-  /* Cambia el color del parrafo */
-  color: #333333;
+  [PROPIEDAD]: [VALOR];
 }
 
 
