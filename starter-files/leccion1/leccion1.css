@@ -5,17 +5,18 @@
 */
 
 /* 
-  Estilo del título dentro de la tarjeta.
+  Estilo del título.
 */
 .h1 {
-  /* TODO: Cambia el color del título */
+  /* Cambia el color del título */
   color: #2b5cff;
 }
 
 /* 
-  Estilo del párrafo dentro de la tarjeta.
+  Estilo del párrafo.
 */
 .p {
+  /* Cambia el color del parrafo */
   color: #333333;
 }
 
